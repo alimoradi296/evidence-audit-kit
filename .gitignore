@@ -1,0 +1,7 @@
+.private/
+evidence/
+.env*
+!.env.example
+__pycache__/
+*.sqlite*
+.DS_Store
